@@ -7,6 +7,7 @@
 </p>
 
 > A python program which automatically generate &#34;Sigma Male&#34; videos
+> Inspired by [Reddit Video Maker Bot](https://github.com/elebumm/RedditVideoMakerBot) to create this bot
 
 ### 🏠 [Homepage](https://github.com/yeeterlol/SigmaMaleVideoBot)
 
