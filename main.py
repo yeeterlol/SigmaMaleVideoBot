@@ -1,11 +1,13 @@
-from video_creation import images, background, compile
+from video_creation import videos, background, compile
 
-print("Sigma Male Video Bot")
+print("Family Guy Video Bot")
+print("Creates ASMR slime videos as Family Guy")
 
 def main():
-    images.download_images()
     background.download_background()
     background.chop_background_video()
+    videos.download_familyguy()
+    videos.chop_background_video()
     compile.compile_video()
 
 if __name__ == "__main__":
